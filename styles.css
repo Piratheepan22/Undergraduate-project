@@ -137,8 +137,8 @@ main {
 .profile-image img {
     width: 90%;
     /* height: 200%; */
-    border-radius: 30%;
-    border: 5px solid var(--primary-color);
+    border-radius: 50%;
+    border: 1px solid var(--primary-color);
 }
 
 .profile-info {
